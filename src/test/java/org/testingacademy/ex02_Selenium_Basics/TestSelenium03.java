@@ -21,6 +21,8 @@ public class TestSelenium03 {
         EdgeDriver driver = new EdgeDriver();
         driver.get("https://google.com");
 
+        driver.quit();
+
     }
 
 }

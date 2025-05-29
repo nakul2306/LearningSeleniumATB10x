@@ -24,6 +24,5 @@ public class TestSelenium09 {
 
         driver.quit();
 
-
     }
 }
