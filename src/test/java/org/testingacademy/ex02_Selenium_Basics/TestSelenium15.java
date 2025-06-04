@@ -34,7 +34,6 @@ public class TestSelenium15 {
 
 
 
-
         EdgeDriver driver = new EdgeDriver(edgeOptions);
 
         Thread.sleep(5000);
