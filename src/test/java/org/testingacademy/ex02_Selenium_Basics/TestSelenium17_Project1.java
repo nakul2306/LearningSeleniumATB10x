@@ -72,7 +72,6 @@ public class TestSelenium17_Project1 {
 
         driver.quit();
 
-
     }
 
     }
